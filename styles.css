@@ -51,23 +51,23 @@ p{
 }
 
 .Bogota{
-    background-image: linear-gradient(#00000067, #00000000), url(/Bogota2.jpg);
+    background-image: linear-gradient(#00000067, #00000000), url(/Images/Bogota.jpg);
 }
 
 .Medellin{
-    background-image: linear-gradient(#00000067, #00000000), url(/Medellin.jpg);
+    background-image: linear-gradient(#00000067, #00000000), url(/Images/Medellin.jpg);
 }
 
 .Cali{
-    background-image: linear-gradient(#00000067, #00000000), url(/Cali.jpg);
+    background-image: linear-gradient(#00000067, #00000000), url(/Images/Cali.jpg);
 }
 
 .Barranquilla{
-    background-image: linear-gradient(#00000067, #00000000), url(/Barranquilla.jpg);
+    background-image: linear-gradient(#00000067, #00000000), url(/Images/Barranquilla.jpg);
 }
 
 .San-Andres{
-    background-image: linear-gradient(#00000067, #00000000), url(/San-Andres.jpg);
+    background-image: linear-gradient(#00000067, #00000000), url(/Images/San-Andres.jpg);
 }
 
 
